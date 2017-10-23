@@ -18,6 +18,5 @@ int main () {
       sleep(1);
       linea = strtok(NULL, s);
    }
-   
    return(0);
 }
